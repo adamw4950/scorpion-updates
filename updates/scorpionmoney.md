@@ -25,6 +25,16 @@ Identify the most profitable repair processes per phone model. Easily pinpoint u
 
 ![Scorpion Money](https://raw.githubusercontent.com/adamw4950/scorpion-updates/a4f9df0acd212475913bccd74d7c6a7ec163b822/images/Scorpion%20Money.png)
 
+### 📱 **Comprehensive Repair Cost Breakdown**
+Want to know how much profit you’re really making? Scorpion Money breaks it all down. Here’s a deep dive into **OLED Screen Repair for iPhone 11 Pro**—including international prices, repair tools, and upsell tactics:
+
+![Scorpion Money iPhone 11 Pro Repair](https://raw.githubusercontent.com/adamw4950/scorpion-updates/a56edc52a1d25661e0123ea7cdb4cdcb27841f01/images/ScorpionMoneyiP11Pro.png)
+
+### 🔍 **OEM vs Aftermarket? We’ve Got You Covered**
+Still unsure whether to go with OEM or aftermarket parts? We help you decide intelligently based on your business goals. Check out our real price comparison for iPhone 11 Pro components:
+
+![OEM vs Aftermarket Parts](https://raw.githubusercontent.com/adamw4950/scorpion-updates/a56edc52a1d25661e0123ea7cdb4cdcb27841f01/images/ScorpMoneyIp11.png)
+
 ### 🤝 **More Than an App—It’s Your Partner!**
 Scorpion is not just another app—it's your **personal guide** and **business partner** in the thrilling journey of phone repair profits!
 
@@ -32,3 +42,4 @@ Scorpion is not just another app—it's your **personal guide** and **business p
 Scorpion Repair is **the first schematic diagram app in history** offering this revolutionary profit-driven feature. Level up your repair game, maximize your profits, and leave your competitors in the dust.
 
 👉 **[Dive into Scorpion Money NOW and dominate the repair market!]** 💪📲💰
+
