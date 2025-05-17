@@ -8,11 +8,10 @@ type: version
 
 Buckle up, because we just unleashed the **largest, most powerful library** of iPhone repair solutions ever seen—created exclusively by your friends at **Scorpion Repair**. With **328+ detailed repair cases** already uploaded, we’re reshaping the world of mobile repair. 🌍📱✨
 
+![Scorpion Solutions](https://raw.githubusercontent.com/adamw4950/scorpion-updates/a4f9df0acd212475913bccd74d7c6a7ec163b822/images/Scorpion%20Solutions.png)
+
 ### 🚀 **Absolutely Beginner-Friendly**
 Even if you've never touched a phone repair toolkit before, **Scorpion has got your back!** Our crystal-clear solutions make repairing phones ridiculously easy—transforming every beginner into a pro technician instantly!
-
-### 🌟 **What's Coming Next?**
-By the end of this week, our ambitious team will upload comprehensive solutions for **every single iPhone model** into Scorpion Solutions. Then we're going full-throttle—expanding to cover every device we support!
 
 ### 🛠️ **Repair Cases Now Available:**
 
@@ -60,7 +59,8 @@ By the end of this week, our ambitious team will upload comprehensive solutions 
 
 And many more!
 
-![Scorpion Solutions](https://raw.githubusercontent.com/adamw4950/scorpion-updates/a4f9df0acd212475913bccd74d7c6a7ec163b822/images/Scorpion%20Solutions.png)
+![Upgrade Case](https://raw.githubusercontent.com/adamw4950/scorpion-updates/a56edc52a1d25661e0123ea7cdb4cdcb27841f01/images/upgrade13proto1tb.PNG
+)
 
 ### 💪 **Scorpion Solutions—Built for You!**
 Forget competitors—we’re in a league of our own. Scorpion isn’t just another repair app—**it’s your ally, your mentor, your partner.** We built Scorpion Solutions to empower YOU, to make phone repair not just possible, but profitable, rewarding, and incredibly easy.
